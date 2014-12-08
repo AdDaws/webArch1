@@ -12,3 +12,15 @@ h1, h3 {
 color:orange;
 font-family:"AR DESTINE";
 }
+
+th, td {
+border: 1px solid white;
+}
+
+table, th {
+color:yellow;
+}
+
+table, td {
+color:white;
+}
